@@ -1,0 +1,3 @@
+- [S3 Versioning Cost Risk](s3_versioning_cost.md) — Enabled versioning without lifecycle rules causes storage bloat
+- [CloudFront Price Class Overspend](cloudfront_price_class.md) — PriceClass_200 is unnecessary; PriceClass_100 saves 25%
+- [Error Caching TTL Misconfiguration](cloudfront_error_caching.md) — 404→/index.html redirect never cached, hits origin repeatedly

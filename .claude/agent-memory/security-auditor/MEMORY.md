@@ -1,0 +1,2 @@
+- [Terraform layout & known gaps](project_terraform_layout.md) — baseline state of terraform/ (S3+CloudFront portfolio site) as of 2026-07-13, recurring gaps to recheck
+- [Audit scope feedback](feedback_audit_scope.md) — only report on checklist items with matching resources; call out N/A categories briefly
